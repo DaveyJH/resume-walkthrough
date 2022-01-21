@@ -1,5 +1,8 @@
-# Name of project
+# CI Code Along - Resume Project
 <!-- ![Multiple Device Demo](./readme-content/images/multi-device.png) -->
+
+*Documentation not completed, walkthrough project not my own work*
+
 ## Live Site
 <!-- [nameOfSite](siteURL)) -->
 ## Repository
@@ -8,7 +11,7 @@
 
 ## Table of Contents
 
-- [Name of project](#name-of-project)
+- [CI Code Along - Resume Project](#ci-code-along---resume-project)
   - [Live Site](#live-site)
   - [Repository](#repository)
   - [Table of Contents](#table-of-contents)
